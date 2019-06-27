@@ -1,4 +1,4 @@
-# Apache-PHP-MySQL-and-phpMyAdmin-Configuration
+# Apache2.4-PHP7-MySQL-and-phpMyAdmin-Configuration
 This is a step-by-step configuration setup to create an environment for deploying applications on Apache server
 and using phpMyAdmin to store data in database.
 
