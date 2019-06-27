@@ -246,10 +246,11 @@ you should see a windows page with a message that says the following :
 Net start mysql ”
 
 
-When this process is done you should look inside the “ C:\Server\data\DB\data” folder and there will be automatically generated files that appear :
+When this process is done you should look inside the “ C:\Server\data\DB\data” folder and there should be automatically generated files that appear. You should see the following :
 
 
-- PICTURE
+![4 2-MySQL-GeneratedFiles](https://user-images.githubusercontent.com/20470279/60247170-1ebd2100-988e-11e9-95a8-c4ce851c889c.JPG)
+
 
 
 
