@@ -365,9 +365,10 @@ In the “ c:\Server\data\htdocs\phpmyadmin\ ” folder create config.inc.php fi
 7.1--> Open in your browser http://localhost/phpmyadmin/
 Enter root as name, do not fill password. If everything is working it should look like this:
 
- 
-- PICTURE 
 
+
+ 
+![9 3 phploginsuccess](https://user-images.githubusercontent.com/20470279/60248881-8aed5400-9891-11e9-8877-6f7b35ee660b.JPG)
 
 
 
