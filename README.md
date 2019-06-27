@@ -191,7 +191,9 @@ With
 
 3.8--> Next! In windows, open the command prompt and make sure you run it as administrator! Copy-paste:
 
+
 	c:\Server\bin\Apache24\bin\httpd.exe -k install
+	
 
 Then hit enter. If firewall prompt comes up just hit ‘Allow Access’.
 Also, Copy-paste:
@@ -200,7 +202,8 @@ Also, Copy-paste:
 c:\Server\bin\Apache24\bin\httpd.exe -k start
 
 
-- PICTURE
+![3 8-cmdprmpt-apcheInstall](https://user-images.githubusercontent.com/20470279/60246220-3e534a00-988c-11e9-89bf-b493155d9927.jpg)
+
 
 
 After Apache is started you need to follow the following link in your chrome browser :
