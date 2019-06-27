@@ -77,16 +77,21 @@ Unpack the Apache files (archive httpd-2.4.25-win64-VC14.zip) to the C:\Server\b
 
 Replace:  
 
+
 Define SRVROOT "c:/Server/bin/Apache24 ” 
+
 
 with  
 
+
 Define SVROOT “c:/Apache24”
+
 
 
 3.2-->Replace:    
 
 “ #ServerName www.example.com:80”  
+
 
 with
 
@@ -113,7 +118,8 @@ The following picture displays how 3.2 and 3.3 should look after the correct cha
 
 
 
-- PICTURE
+![3 3-apache servr confg](https://user-images.githubusercontent.com/20470279/60245583-e5cf7d00-988a-11e9-8984-28877cfb5868.JPG)
+
 
 
 
