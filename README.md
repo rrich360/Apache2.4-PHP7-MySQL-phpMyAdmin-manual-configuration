@@ -389,7 +389,7 @@ If for some reason you are still not able to get into phpmyadmin database what y
 Then you want to type in the search box “ config.default.php ” :
 
 
--	PICTURE 8.0
+![8 0](https://user-images.githubusercontent.com/20470279/60249085-02bb7e80-9892-11e9-8275-4adaef26e01b.JPG)
 
 
 8.1--> Once you are inside the file, you should scroll down to the section where it shows the following below and change where it says “ [‘AllowNoPassword’] = false; ” to “ [‘AllowNoPassword’] = true; ”
