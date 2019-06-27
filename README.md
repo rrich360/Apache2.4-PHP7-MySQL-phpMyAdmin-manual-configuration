@@ -339,7 +339,7 @@ They should look like:
 
 
 
--	PICTURE 6.2 replaced
+![6 2 replaced](https://user-images.githubusercontent.com/20470279/60248451-aefc6580-9890-11e9-952a-2a63d6c3e1a0.JPG)
 	
   
   
