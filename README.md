@@ -262,10 +262,11 @@ From here on out the MySQL service should start automatically with every Windows
 
 5.1-->	In the c:\Server\bin\ create new PHP folder and copy there the contents of php-7.1.1RC1-Win32-VC14-x64.zip.
 
-5.2-->	Again, open the c:\Server\bin\Apache24\conf\httpd.conf file and append it with lines:
+5.2-->	Again, open the c:\Server\bin\Apache24\conf\httpd.conf file and append it with lines you see inside of the red circle I made in the picture below (CORRECT php7 module you need to load on apache):
 
 
-- PICTURE
+![5 1 -phpModules](https://user-images.githubusercontent.com/20470279/60247358-87a49900-988e-11e9-819d-ae39e0fab5f7.JPG)
+
 
 
 5.3-->	Restart Apache using command prompt (run as administrator always!) :
