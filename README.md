@@ -56,13 +56,13 @@ In the data directory I created two folders:
 Unpack the Apache files (archive httpd-2.4.25-win64-VC14.zip) to the C:\Server\bin\ directory (we are interested only in the Apache24 folder):
 
 
-PICTURE
+- PICTURE
 
 
-After unpacking, go to the “c:\Server\bin\Apache24\conf\” folder and open the “httpd.conf”  file with any text editor.
+3.1--> After unpacking, go to the “c:\Server\bin\Apache24\conf\” folder and open the “httpd.conf”  file with any text editor.
 
 
-3.1-->Replace:  
+Replace:  
 
 Define SRVROOT "c:/Server/bin/Apache24 ” 
 
@@ -97,7 +97,10 @@ DocumentRoot “c:/Server/data/htdocs/”
 The following picture displays how 3.2 and 3.3 should look after the correct changes have been made : 
 
 
-PICTURE
+
+
+
+- PICTURE
 
 
 
@@ -109,6 +112,8 @@ PICTURE
 
 “ DirectoryIndex index.html ”   
 
+
+
 -   PICTURE
 
 
@@ -119,6 +124,8 @@ with the following :
 
 
 “ DirectoryIndex index.php index.html index.htm ”   
+
+
 
 -    PICTURE
 
@@ -172,7 +179,8 @@ Also, Copy-paste:
 
 c:\Server\bin\Apache24\bin\httpd.exe -k start
 
-PICTURE
+
+- PICTURE
 
 
 After Apache is started you need to follow the following link in your chrome browser :
@@ -194,7 +202,7 @@ you should see a windows page with a message that says the following :
 
 
 
-PICTURE
+- PICTURE
 
 
 4.3-->	Save and close it.
@@ -211,7 +219,7 @@ Net start mysql ”
 When this process is done you should look inside the “ C:\Server\data\DB\data” folder and there will be automatically generated files that appear :
 
 
-PICTURE
+- PICTURE
 
 
 
@@ -226,7 +234,7 @@ From here on out the MySQL service should start automatically with every Windows
 5.2-->	Again, open the c:\Server\bin\Apache24\conf\httpd.conf file and append it with lines:
 
 
-PICTURE
+- PICTURE
 
 
 5.3-->	Restart Apache using command prompt (run as administrator always!) :
