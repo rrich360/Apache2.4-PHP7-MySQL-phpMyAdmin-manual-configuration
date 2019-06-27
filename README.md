@@ -307,7 +307,8 @@ In the c:\Server\bin\PHP\ folder rename “ php.ini-development ” file to “ 
 and replace it with the following : 
 
 
--	PICTURE 6.0 replaced
+![6 0-extnsn_replaced](https://user-images.githubusercontent.com/20470279/60247863-7b6d0b80-988f-11e9-88ad-e653e7268e6b.JPG)
+
 
 
 6.1--> Now find the group of strings:
