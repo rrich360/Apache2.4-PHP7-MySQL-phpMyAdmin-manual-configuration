@@ -269,7 +269,7 @@ and replace it with the following :
 -	PICTURE 6.0 replaced
 
 
-Now find the group of strings:
+6.1--> Now find the group of strings:
 
 
 -	PICTURE 6.1
@@ -283,7 +283,7 @@ and replace it with the following :
 
 
 
-Now uncomment this group of strings:
+6.2--> Now uncomment this group of strings:
 
 
 
@@ -299,7 +299,7 @@ They should look like:
 	
   
   
-Save the file and restart Apache.
+6.3--> Save the file and restart Apache.
 
 
 
@@ -318,7 +318,7 @@ In the “ c:\Server\data\htdocs\phpmyadmin\ ” folder create config.inc.php fi
 
 
 
-Open in your browser http://localhost/phpmyadmin/
+7.1--> Open in your browser http://localhost/phpmyadmin/
 Enter root as name, do not fill password. If everything is working it should look like this:
 
  
