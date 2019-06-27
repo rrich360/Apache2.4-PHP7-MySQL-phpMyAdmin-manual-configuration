@@ -231,7 +231,8 @@ you should see a windows page with a message that says the following :
 
 
 
-- PICTURE
+![4-mySQL-ini](https://user-images.githubusercontent.com/20470279/60246996-d1d94a80-988d-11e9-97b6-9d9a3ee6919b.JPG)
+
 
 
 4.3-->	Save and close it.
