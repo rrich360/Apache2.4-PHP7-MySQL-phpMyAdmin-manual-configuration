@@ -446,8 +446,11 @@ Everything should be working now!
 9.2--> Open MySQL Installer and choose the option to reconfigure MySQL Server -Version 8.0.16 - Architecture X64.
 
 
-				-	PICTURE 9.1 
-        
+
+
+![9 1-fixphp-mysql-login2](https://user-images.githubusercontent.com/20470279/60249858-9e012380-9893-11e9-8920-31042c04fc32.JPG)
+
+
         
 
 9.3--> DO NOT CHANGE ANYTHING EXCEPT AUTHENTICATION METHOD. Once, you get to this step inside of MySQL Installer you need to choose the option that says, “ Use Legacy Authentication Method(Retain MySQL 5.x Compatibility) ”, click Next. Continue on until you reach Apply Configuration. Wait until everything is finished downloading and checked off. When complete, click the Finish button. 
