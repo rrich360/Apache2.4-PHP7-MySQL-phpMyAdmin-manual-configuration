@@ -3,8 +3,7 @@ This is a step-by-step configuration setup to create an environment for deployin
 and using phpMyAdmin to store data in database.
 
 
-
-1. Download Apache, PHP, MySQL, phpMyAdmin
+1. Download Apache, PHP, MySQL, phpMyAdmin...
 
 •	Download Apache for Windows: https://www.apachelounge.com/download/
 
@@ -35,19 +34,25 @@ You should have the following files :
 
 
 
+
+
 -	PICTURE 1
+
+
 
 
 First! you want to install the vc_redist.x64.exe and vcredist_x64.exe files for the platform to run apache, php, mySQL.
 
-2. Create necessary folders
+2. Create necessary folders...
+
 On the drive C create a directory Server; inside that create the bin directory (where you will install Apache, PHP, and MySQL ) and data directory (where the apps and databases will be located).
 In the data directory I created two folders:
 	DB (for the database)
 	htdocs (for the apps)
 
 
-3. Install and configure Apache 2.4 on Windows
+3. Install and configure Apache 2.4 on Windows...
+
 Unpack the Apache files (archive httpd-2.4.25-win64-VC14.zip) to the C:\Server\bin\ directory (we are interested only in the Apache24 folder):
 
 
@@ -171,10 +176,17 @@ PICTURE
 
 
 After Apache is started you need to follow the following link in your chrome browser :
-“ http://localhost/ ”
-you should see a windows page with a message that says “ Index of / ”.
 
-4.Installation and configuration MySQL 8.0 on Windows
+“ http://localhost/ ”
+
+you should see a windows page with a message that says the following : 
+
+“ Index of / ”.
+
+
+
+4.Installation and configuration MySQL 8.0 on Windows...
+
 
 4.1-->	In the c:\Server\bin\ folder unpack MySQL archive (the mysql-8.0.11-winx64.zip file). Rename it to mysql-8.0 (just for short).
 
@@ -207,7 +219,7 @@ From here on out the MySQL service should start automatically with every Windows
 
 
 
-5.Installation PHP 7 on Windows
+5.Installation PHP 7 on Windows...
 
 5.1-->	In the c:\Server\bin\ create new PHP folder and copy there the contents of php-7.1.1RC1-Win32-VC14-x64.zip.
 
@@ -241,7 +253,8 @@ PICTURE
 
 
 
-6. Configuration PHP 7
+6. Configuration PHP 7...
+
 In the c:\Server\bin\PHP\ folder rename “ php.ini-development ” file to “ php.ini ”. Open it with a text editor. Find the following string : 
 
 
@@ -292,7 +305,7 @@ Save the file and restart Apache.
 
 
 
-7. Installation and configuration phpMyAdmin on Windows
+7. Installation and configuration phpMyAdmin on Windows...
 
 To the “ c:\Server\data\htdocs\ folder ” copy the content of phpMyAdmin-4.6.5.2-all-languages.zip. 
 Rename phpMyAdmin-4.6.5.2-all-languages to phpmyadmin (for brevity).
@@ -316,7 +329,7 @@ Enter root as name, do not fill password. If everything is working it should loo
 
 
 
-8. In case you can NOT login to phpMyAdmin without password
+8. In case you can NOT login to phpMyAdmin without password...
 
 
 
