@@ -57,7 +57,8 @@ In the data directory I created two folders:
 Unpack the Apache files (archive httpd-2.4.25-win64-VC14.zip) to the C:\Server\bin\ directory (we are interested only in the Apache24 folder):
 
 
-- PICTURE
+![3 0-apache](https://user-images.githubusercontent.com/20470279/60245038-b704d700-9889-11e9-806e-b25a53007b30.JPG)
+
 
 
 3.1--> After unpacking, go to the “c:\Server\bin\Apache24\conf\” folder and open the “httpd.conf”  file with any text editor.
