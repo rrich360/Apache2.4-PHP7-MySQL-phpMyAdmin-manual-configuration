@@ -5,21 +5,32 @@ and using phpMyAdmin to store data in database.
 
 
 1. Download Apache, PHP, MySQL, phpMyAdmin
+
 •	Download Apache for Windows: https://www.apachelounge.com/download/
+
 •	Download PHP 7 for Windows (select ‘Thread Safe’): http://windows.php.net/qa/
+
 •	Download MySQL for Windows (select ZIP Archive): http://dev.mysql.com/downloads/mysql/
+
 •	Download phpMyAdmin: https://www.phpmyadmin.net/
-•	Download the latest C++ Redistributable Visual Studio 2017: (direct link to download the 64-bit version, a direct link to the download of the 32-bit version).
-•	Download Visual C++ Redistributable Packages for Visual Studio 2015: https://www.microsoft.com/ru-ru/download/details.aspx?id=48145
+
+•	Download the latest C++ Redistributable Visual Studio 2017: (direct link to download the 64-bit version, a direct link to the 	         download of the 32-bit version).
+
+•	Download Visual C++ Redistributable Packages for Visual Studio 2015: https://www.microsoft.com/ru-ru/download/details.aspx?             id=48145
 
 
 You should have the following files :
 
 •	httpd-2.4.29-Win64-VC15.zip
+
 •	php-7.2.0-Win32-VC15-x64.zip
+
 •	mysql-8.0.11-winx64.zip
+
 •	phpMyAdmin-4.7.7-all-languages.zip
+
 •	vc_redist.x64.exe
+
 •	vcredist_x64.exe
 
 
