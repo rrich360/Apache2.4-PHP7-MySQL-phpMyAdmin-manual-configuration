@@ -378,7 +378,8 @@ Enter root as name, do not fill password. If everything is working it should loo
 
 
 
--	PICTURE 8.0 aphp…
+![8 0-aphploginerror](https://user-images.githubusercontent.com/20470279/60248990-d1db4980-9891-11e9-83d8-8b9f46f42780.JPG)
+
 
 
 
