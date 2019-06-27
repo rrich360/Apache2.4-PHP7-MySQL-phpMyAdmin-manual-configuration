@@ -457,7 +457,8 @@ Everything should be working now!
 
 
 
-        -	PICTURE 9.2
+![9 2-fixphp-mysql-login](https://user-images.githubusercontent.com/20470279/60250062-f1737180-9893-11e9-97c6-35996bc2a720.JPG)
+
 
 
 
