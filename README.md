@@ -206,13 +206,18 @@ c:\Server\bin\Apache24\bin\httpd.exe -k start
 
 
 
-After Apache is started you need to follow the following link in your chrome browser :
+3.9--> After Apache is started you need to follow the following link in your chrome browser :
+
 
 “ http://localhost/ ”
 
+
 you should see a windows page with a message that says the following : 
 
-“ Index of / ”.
+
+“ Index of / ”
+
+- PICTURE 
 
 
 
