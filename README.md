@@ -401,7 +401,8 @@ Then you want to type in the search box “ config.default.php ” :
 8.2--> Next, go back to “ C:\Server\data\htdocs\phpmyadmin ” and type in the search box “config.inc.php ” and select the first file. Should look like the following below: 
 
 
-	PICTURE 8.2 
+![8 2-config inc](https://user-images.githubusercontent.com/20470279/60249403-c89eac80-9892-11e9-932d-97531acf6754.JPG)
+
               
 
 8.3--> Once you are inside the file, make sure you make the following changes so the file looks EXACTLY like what you see in the picture below:
