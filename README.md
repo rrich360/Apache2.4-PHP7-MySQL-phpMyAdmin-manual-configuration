@@ -287,7 +287,8 @@ phpinfo  ( ) ;”
 
 
 
-PICTURE
+![5 5-php7localhost](https://user-images.githubusercontent.com/20470279/60247685-19aca180-988f-11e9-8f07-bf23c10d865e.jpg)
+
 
 
 
