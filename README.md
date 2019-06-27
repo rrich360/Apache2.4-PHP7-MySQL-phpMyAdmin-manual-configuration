@@ -217,7 +217,8 @@ you should see a windows page with a message that says the following :
 
 “ Index of / ”
 
-- PICTURE 
+![3 9](https://user-images.githubusercontent.com/20470279/60246756-655e4b80-988d-11e9-99b6-60f11af95fc4.JPG)
+
 
 
 
