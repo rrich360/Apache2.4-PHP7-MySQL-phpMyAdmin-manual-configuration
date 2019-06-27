@@ -147,7 +147,7 @@ with the following :
 
 
 
--    PICTURE
+![3 4-replaced](https://user-images.githubusercontent.com/20470279/60245898-86be3800-988b-11e9-960a-e65ed624646e.JPG)
 
 
 
