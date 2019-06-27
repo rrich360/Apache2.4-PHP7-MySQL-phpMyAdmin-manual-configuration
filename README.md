@@ -314,7 +314,8 @@ and replace it with the following :
 6.1--> Now find the group of strings:
 
 
--	PICTURE 6.1
+![6 1](https://user-images.githubusercontent.com/20470279/60247949-abb4aa00-988f-11e9-9e53-11c641cd09ca.JPG)
+
 
 
 and replace it with the following :
