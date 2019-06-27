@@ -409,7 +409,7 @@ Then you want to type in the search box “ config.default.php ” :
 
 
 
-	PICTURE 8.2 pma confgNoPasswrd
+![8 2-pma confgNoPasswrd](https://user-images.githubusercontent.com/20470279/60249542-10253880-9893-11e9-9ec9-f2bd427bd899.JPG)
 
 
 
