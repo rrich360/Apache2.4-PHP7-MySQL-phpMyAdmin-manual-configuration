@@ -357,7 +357,7 @@ In the “ c:\Server\data\htdocs\phpmyadmin\ ” folder create config.inc.php fi
 
 
 
--	PICTURE 7.0 config-inc-php
+![7 0](https://user-images.githubusercontent.com/20470279/60248570-ef5be380-9890-11e9-837e-f5e7afe0f93b.JPG)	
 
 
 
