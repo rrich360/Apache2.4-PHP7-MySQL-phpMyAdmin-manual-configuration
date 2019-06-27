@@ -462,7 +462,10 @@ Everything should be working now!
 
 
 
-9.4-->   Next,  you need to login the phpMyAdmin with the SAME root username and root password you created when you installed MySQL onto your computer. This will allow you to access phpMyAdmin like you would the MySQL Database. (NOTE: always save your database passwords or ANY passwords in a secure place or folder)
+9.4-->   Next,  you need to login the phpMyAdmin with the SAME root username and root password you created when you installed MySQL onto your computer. This will allow you to access phpMyAdmin like you would the MySQL Database. You should get the following result :
+
+
+(NOTE: always save your database passwords or ANY passwords in a secure place or folder)
 
 
 
