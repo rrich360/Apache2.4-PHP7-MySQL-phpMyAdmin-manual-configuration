@@ -61,7 +61,18 @@ Unpack the Apache files (archive httpd-2.4.25-win64-VC14.zip) to the C:\Server\b
 
 
 
+
+
+
 3.1--> After unpacking, go to the “c:\Server\bin\Apache24\conf\” folder and open the “httpd.conf”  file with any text editor.
+
+
+
+
+
+![3 0-bin-apache](https://user-images.githubusercontent.com/20470279/60245282-4a3e0c80-988a-11e9-81bd-dace7af2cc48.JPG)
+
+
 
 
 Replace:  
