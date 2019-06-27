@@ -331,7 +331,7 @@ and replace it with the following :
 
 
 
--	PICTURE 6.2 
+![6 2](https://user-images.githubusercontent.com/20470279/60248384-883e2f00-9890-11e9-8ac8-40720bb8e861.JPG)
 
 
 
