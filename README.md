@@ -395,7 +395,7 @@ Then you want to type in the search box “ config.default.php ” :
 8.1--> Once you are inside the file, you should scroll down to the section where it shows the following below and change where it says “ [‘AllowNoPassword’] = false; ” to “ [‘AllowNoPassword’] = true; ”
 
 
-	PICTURE 8.1
+![8 1-AllowNoPassword](https://user-images.githubusercontent.com/20470279/60249177-41e9cf80-9892-11e9-8a32-80cd2999a174.JPG)
 
 
 8.2--> Next, go back to “ C:\Server\data\htdocs\phpmyadmin ” and type in the search box “config.inc.php ” and select the first file. Should look like the following below: 
