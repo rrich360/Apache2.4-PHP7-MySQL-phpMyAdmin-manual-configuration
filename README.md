@@ -300,7 +300,7 @@ In the c:\Server\bin\PHP\ folder rename “ php.ini-development ” file to “ 
 
 
 
--	PICTURE 6.0
+![6 0-extnsn_dir](https://user-images.githubusercontent.com/20470279/60247768-45c82280-988f-11e9-82f3-9acaf6194bf1.JPG)
 
 
 
