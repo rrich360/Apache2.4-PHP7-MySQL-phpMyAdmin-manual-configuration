@@ -166,7 +166,8 @@ With the following :
 
 
 
--	PICTURE	
+![3 5 - replaced](https://user-images.githubusercontent.com/20470279/60246106-02b88000-988c-11e9-8867-0bf274442311.JPG)
+
 
 
 
