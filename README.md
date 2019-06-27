@@ -420,6 +420,18 @@ Everything should be working now!
 
 
 9. If the phpMyAdmin is STILL NOT working!
+
+
+
+
+![9 0-phploginerror](https://user-images.githubusercontent.com/20470279/60249648-38149c00-9893-11e9-9b55-5c706ad8bcee.JPG)
+
+
+
+
+
+
+
 		
  If for whatever reason you are still not able to login your phpmyadmin database you can do the following simple steps:
  
