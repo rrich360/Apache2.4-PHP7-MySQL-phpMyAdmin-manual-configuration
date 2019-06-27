@@ -133,7 +133,8 @@ The following picture displays how 3.2 and 3.3 should look after the correct cha
 
 
 
--   PICTURE
+![3 4](https://user-images.githubusercontent.com/20470279/60245775-465eba00-988b-11e9-8216-d72c009ebe20.JPG)
+
 
 
 
